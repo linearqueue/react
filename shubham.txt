@@ -1,1 +1,0 @@
-This is the react folder and using for learning purpose
